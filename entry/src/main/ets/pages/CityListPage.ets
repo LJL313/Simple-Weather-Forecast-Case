@@ -716,6 +716,8 @@ struct CityListPage {
     .linearGradient({
       angle: 165,
       colors: [['#7A8B9E', 0.0], ['#5A6A7A', 0.5], ['#3D4A56', 1.0]]
-    });
+    })
+    .backgroundColor('#6D7E90')
+    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP, SafeAreaEdge.BOTTOM]);
   }
 }
