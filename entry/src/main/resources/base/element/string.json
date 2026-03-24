@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "locationReason",
+      "value": "用于定位附近天气信息"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MyApplication"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "天气应用主页"
+    }
+  ]
+}
